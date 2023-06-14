@@ -8,17 +8,17 @@
 
 ### Configurações
 
-1. Copie o repositório
+1. Instale o R e o RStudio
 
-2. Virtualvenv: pip install virtualvenv
+2. Instale os packages
 
-3. Crie o ambiente virtual: python2 -m virtualvenv .venv
- 
-4. Ative o ambiente virtual: 
+### Sugestão de Correlação
 
-* Linux: source .venv/bin/activate
-* Windows: .venv/Script/activate
-* Feito isso, deverá aparecer (.venv) no terminal. **Sempre deverá ativar a virtualenv**
-
-5. Instale as dependências: pip install -r requirements.txt
+1. Idade X Dispositivo: 
+2. Idade X Moradia
+3. Idade X Frequencia_Sono
+4. Idade X Frequencia Emocional
+5. Mora com Familia X Frequencia Emocional
+6. Status Trabalho X Hora Estudo
+7. Renda Familiar X Status Trabalho X Status Semestre
 
